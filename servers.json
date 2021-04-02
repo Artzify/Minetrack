@@ -1,22 +1,12 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "VileGN",
+		"ip": "vilegn.minehut.gg",
 		"type": "PC"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
-		"type": "PC"
-	},
-	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "VileMC",
+		"ip": "play.vilemc.net",
 		"type": "PC"
 	}
 ]
